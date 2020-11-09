@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.EchoServiceTest" time="0.003" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.EchoServiceTest" time="0.219" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="14"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\PC\Desktop\UASLP\Jose Edilberto Torres Cruz\Programacion Orientada a Objetos\Tareas\Stub\target\test-classes;C:\Users\PC\Desktop\UASLP\Jose Edilberto Torres Cruz\Programacion Orientada a Objetos\Tareas\Stub\target\classes;C:\Users\PC\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.0\junit-jupiter-engine-5.7.0.jar;C:\Users\PC\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\PC\.m2\repository\org\junit\platform\junit-platform-engine\1.7.0\junit-platform-engine-1.7.0.jar;C:\Users\PC\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\PC\.m2\repository\org\junit\platform\junit-platform-commons\1.7.0\junit-platform-commons-1.7.0.jar;C:\Users\PC\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.0\junit-jupiter-api-5.7.0.jar;"/>
+    <property name="java.class.path" value="C:\Users\PC\Desktop\UASLP\Jose Edilberto Torres Cruz\Programacion Orientada a Objetos\Tareas\Stub\target\test-classes;C:\Users\PC\Desktop\UASLP\Jose Edilberto Torres Cruz\Programacion Orientada a Objetos\Tareas\Stub\target\classes;C:\Users\PC\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.0\junit-jupiter-engine-5.7.0.jar;C:\Users\PC\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\PC\.m2\repository\org\junit\platform\junit-platform-engine\1.7.0\junit-platform-engine-1.7.0.jar;C:\Users\PC\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\PC\.m2\repository\org\junit\platform\junit-platform-commons\1.7.0\junit-platform-commons-1.7.0.jar;C:\Users\PC\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.0\junit-jupiter-api-5.7.0.jar;C:\Users\PC\.m2\repository\org\mockito\mockito-all\1.10.19\mockito-all-1.10.19.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="D:\Java\jdk-14.02\bin"/>
-    <property name="sun.java.command" value="C:\Users\PC\AppData\Local\Temp\surefire10703132308578375475\surefirebooter6435584773324203593.jar C:\Users\PC\AppData\Local\Temp\surefire10703132308578375475 2020-11-08T18-22-05_125-jvmRun1 surefire2676499796086543550tmp surefire_015346222958765423694tmp"/>
+    <property name="sun.java.command" value="C:\Users\PC\AppData\Local\Temp\surefire17391824142672727308\surefirebooter15643085262412708652.jar C:\Users\PC\AppData\Local\Temp\surefire17391824142672727308 2020-11-08T19-48-57_596-jvmRun1 surefire8382337408716383176tmp surefire_08388170421037950753tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\PC\Desktop\UASLP\Jose Edilberto Torres Cruz\Programacion Orientada a Objetos\Tareas\Stub\target\test-classes;C:\Users\PC\Desktop\UASLP\Jose Edilberto Torres Cruz\Programacion Orientada a Objetos\Tareas\Stub\target\classes;C:\Users\PC\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.0\junit-jupiter-engine-5.7.0.jar;C:\Users\PC\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\PC\.m2\repository\org\junit\platform\junit-platform-engine\1.7.0\junit-platform-engine-1.7.0.jar;C:\Users\PC\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\PC\.m2\repository\org\junit\platform\junit-platform-commons\1.7.0\junit-platform-commons-1.7.0.jar;C:\Users\PC\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.0\junit-jupiter-api-5.7.0.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\PC\Desktop\UASLP\Jose Edilberto Torres Cruz\Programacion Orientada a Objetos\Tareas\Stub\target\test-classes;C:\Users\PC\Desktop\UASLP\Jose Edilberto Torres Cruz\Programacion Orientada a Objetos\Tareas\Stub\target\classes;C:\Users\PC\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.0\junit-jupiter-engine-5.7.0.jar;C:\Users\PC\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\PC\.m2\repository\org\junit\platform\junit-platform-engine\1.7.0\junit-platform-engine-1.7.0.jar;C:\Users\PC\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\PC\.m2\repository\org\junit\platform\junit-platform-commons\1.7.0\junit-platform-commons-1.7.0.jar;C:\Users\PC\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.0\junit-jupiter-api-5.7.0.jar;C:\Users\PC\.m2\repository\org\mockito\mockito-all\1.10.19\mockito-all-1.10.19.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\PC"/>
     <property name="user.language" value="en"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\PC\AppData\Local\Temp\surefire10703132308578375475\surefirebooter6435584773324203593.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\PC\AppData\Local\Temp\surefire17391824142672727308\surefirebooter15643085262412708652.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="14.0.2+12-46"/>
@@ -55,6 +55,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="58.0"/>
   </properties>
-  <testcase name="givenValidRequestWhenEchoThenTrue_isResponse" classname="org.example.EchoServiceTest" time="0"/>
-  <testcase name="givenValidRequestAndWrongResponseWhenEchoThenTrue_isResponse" classname="org.example.EchoServiceTest" time="0"/>
+  <testcase name="givenValidRequestWhenEchoThenTrue_isResponse" classname="org.example.EchoServiceTest" time="0.214"/>
+  <testcase name="givenValidRequestAndWrongResponseWhenEchoThenTrue_isResponse" classname="org.example.EchoServiceTest" time="0.002"/>
 </testsuite>
